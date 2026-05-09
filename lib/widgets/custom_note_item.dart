@@ -30,7 +30,7 @@ class CustomNoteItem extends StatelessWidget {
                 'lsflkasfjklsafjsak',
                 style: TextStyle(
                   color: Colors.black.withValues(alpha: 0.6),
-                  fontSize: 20,
+                  fontSize: 18,
                 ),
               ),
             ),
