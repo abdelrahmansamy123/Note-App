@@ -43,7 +43,6 @@ class CustomNoteItem extends StatelessWidget {
               ),
             ),
           ),
-
           Padding(
             padding: const EdgeInsets.only(right: 24),
             child: Text(
