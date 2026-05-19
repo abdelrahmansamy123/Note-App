@@ -14,7 +14,7 @@ class SimpleBlocObserver implements BlocObserver {
 
   @override
   void onCreate(BlocBase<dynamic> bloc) {
-    // TODO: implement onCreate
+    debugPrint('create = $bloc');
   }
 
   @override
