@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import 'package:flutter/material.dart';
 import 'package:note/widgets/custom_button.dart';
 import 'package:note/widgets/custom_text_field.dart';
